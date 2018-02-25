@@ -1,0 +1,1 @@
+Generate Greeting cards using PHP GD Library
